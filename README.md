@@ -21,24 +21,9 @@ to show some animation, mouse over interactions, scrolling interactions when
 interacting with the site.
 ● An email me button that allows clients to send an email to the applicant via the
 site and shows some logic, eg showing some text about appointment/feedback/question received
-website dr H
-functions
-cash payment
-online cart
-product sales
-cash options
-express checkout
-contact info
-location of clinic
-phone number
-working hours
-the doctor nurses pic ratings
-customer reviews nice comment
-home page with a product tag
-menu bar =
-questionnaire or feedback form
-reference :;
-appointment form
-map
+●cash payment
+●online cart
+●express checkout
+
 references :
 https://amedicalclinic.sg/
